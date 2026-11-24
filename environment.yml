@@ -1,0 +1,11 @@
+# Pin the exact versions used for the paper, e.g. from `conda env export --from-history`
+# plus version numbers, so the results can be reproduced later.
+name: paper-short-name
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - scipy
+  - matplotlib
+  - jupyterlab

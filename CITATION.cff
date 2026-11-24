@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+type: software
+title: "paper-short-name"
+abstract: "Code that reproduces the results in the paper below."
+authors:
+  # The people who wrote the software. Surname in family-names only.
+  - family-names: "Surname"
+    given-names: "First M."
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Pozzo"
+    given-names: "Lilo D."
+    orcid: "https://orcid.org/0000-0001-7104-9061"
+license: MIT
+repository-code: "https://github.com/pozzo-research-group/paper-short-name"
+version: 1.0.0
+date-released: 2026-01-01
+# Uncomment and fill in once the paper has a DOI.
+# preferred-citation:
+#   type: article
+#   title: "Published paper title"
+#   authors:
+#     - family-names: "Surname"
+#       given-names: "First M."
+#     - family-names: "Pozzo"
+#       given-names: "Lilo D."
+#       orcid: "https://orcid.org/0000-0001-7104-9061"
+#   journal: "Journal name"
+#   publisher:
+#     name: "Publisher name"
+#   year: 2026
+#   volume: 1
+#   start: 1
+#   end: 10
+#   doi: "10.xxxx/xxxxx"
